@@ -2,7 +2,7 @@
 Living Goods App installation Script for Linux(Ubuntu), Also the LG Training App &amp; Go Launcher
 
 Rename apps as follows;
-
+------------------------------------------------------------------------------------------------------------------------
 Living Gooods Live App --------->lg_v3.apk
 
 
