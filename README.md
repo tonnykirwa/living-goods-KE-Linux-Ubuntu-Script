@@ -9,7 +9,7 @@ Go Launcher -------------------->go_launcher.apk\
 
 as shown below
 
-![alt text](https://github.com/tonnykirwa/living-goods-KE-Linux-Ubuntu-Script/blob/master/folder.png "Folder containing apps")\
+![alt text](https://github.com/tonnykirwa/living-goods-KE-Linux-Ubuntu-Script/blob/master/folder.png "Folder containing apps")
 
 lg_script.sh should be in the same folder as the apps above. While inside the said folder, open the terminal type the following;
 
