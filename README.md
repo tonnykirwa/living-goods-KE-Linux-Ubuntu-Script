@@ -22,10 +22,17 @@ lg_script.sh should be in the same folder as the apps above. While inside the sa
 or
 ```sudo sh lg_script.sh```
 
-#Step 1
+# Step 1 - Running the Script
 
 
 ![alt text](https://github.com/tonnykirwa/living-goods-KE-Linux-Ubuntu-Script/blob/master/script.png "Running Script on Terminal")
+
+
+# Step 2 - Apps being Installed
+
+
+![alt text](https://github.com/tonnykirwa/living-goods-KE-Linux-Ubuntu-Script/blob/master/success_installed.png "Apps being Installed")
+
 
 
 # How to install ADB & Fastboot on Ubuntu
