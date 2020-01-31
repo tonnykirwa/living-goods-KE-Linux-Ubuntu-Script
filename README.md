@@ -3,13 +3,13 @@ Living Goods App installation Script for Linux(Ubuntu), Also the LG Training App
 
 Rename apps as follows;
 ------------------------------------------------------------------------------------------------------------------------
-Living Gooods Live App --------->lg_v3.apk
+Living Gooods Live App ---------> lg_v3.apk
 
 
-Living Gooods Training App ----->training_lg.apk
+Living Gooods Training App -----> training_lg.apk
 
 
-Go Launcher -------------------->go_launcher.apk
+Go Launcher --------------------> go_launcher.apk
 
 
 as shown below
@@ -22,7 +22,8 @@ lg_script.sh should be in the same folder as the apps above. While inside the sa
 or
 ```sudo sh lg_script.sh```
 
-#Step 1\
+#Step 1
+
 
 ![alt text](https://github.com/tonnykirwa/living-goods-KE-Linux-Ubuntu-Script/blob/master/script.png "Running Script on Terminal")
 
@@ -34,6 +35,7 @@ Fastboot is basically a diagnostics mode that is used to modify the Android file
 
 Installation
 To install both the ADB & Fastboot, execute the following command from the terminal
+
 
 # sudo apt-get install android-tools-adb android-tools-fastboot
 
