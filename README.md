@@ -14,7 +14,7 @@ Go Launcher --------------------> go_launcher.apk
 
 as shown below
 
-![alt text](https://github.com/tonnykirwa/living-goods-KE-Linux-Ubuntu-Script/blob/master/folder.png "Folder containing apps")
+![alt text](https://github.com/tonnykirwa/living-goods-KE-Linux-Ubuntu-Script/blob/master/images/folder.png "Folder containing apps")
 
 lg_script.sh should be in the same folder as the apps above. While inside the said folder, open the terminal type the following;
 
@@ -25,13 +25,13 @@ or
 # Step 1 - Running the Script
 
 
-![alt text](https://github.com/tonnykirwa/living-goods-KE-Linux-Ubuntu-Script/blob/master/script.png "Running Script on Terminal")
+![alt text](https://github.com/tonnykirwa/living-goods-KE-Linux-Ubuntu-Script/blob/master/images/script.png "Running Script on Terminal")
 
 
 # Step 2 - Apps being Installed Successfully
 
 
-![alt text](https://github.com/tonnykirwa/living-goods-KE-Linux-Ubuntu-Script/blob/master/success_installed.png "Apps being Installed")
+![alt text](https://github.com/tonnykirwa/living-goods-KE-Linux-Ubuntu-Script/blob/master/images/success_installed.png "Apps being Installed")
 
 
 
