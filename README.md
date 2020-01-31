@@ -1,3 +1,6 @@
+![alt text](https://github.com/tonnykirwa/living-goods-KE-Linux-Ubuntu-Script/blob/master/images/livinggoods_logo.png "Living Goods Logo")
+
+
 # Living-Goods-App-KE-Linux-Ubuntu-Script - Version 3
 Living Goods App installation Script for Linux(Ubuntu), Also the LG Training App &amp; Go Launcher
 
