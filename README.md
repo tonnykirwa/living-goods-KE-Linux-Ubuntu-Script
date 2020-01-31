@@ -41,6 +41,6 @@ To install both the ADB & Fastboot, execute the following command from the termi
 
 Once the installation has been finished you can check the ADB version by running the following command,
 
-adb version
+```adb version```
 
 
