@@ -9,9 +9,9 @@ Go Launcher -------------------->go_launcher.apk\
 
 lg_script.sh should be in the same folder as the apps above. While inside the said folder, open the terminal type the following;
 
-# ./lg_script.sh\
+```./lg_script.sh```
 or
-# sudo sh lg_script.sh
+```sudo sh lg_script.sh```
 
 
 
