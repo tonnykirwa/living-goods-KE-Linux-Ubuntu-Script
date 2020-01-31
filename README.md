@@ -1,4 +1,4 @@
-# living-goods-KE-Linux-Ubuntu-Script
+# Living-Goods-KE-Linux-Ubuntu-Script
 Living Goods App installation Script for Linux(Ubuntu), Also the LG Training App &amp; Go Launcher
 
 Rename apps as follows;
@@ -16,6 +16,10 @@ lg_script.sh should be in the same folder as the apps above. While inside the sa
 ```./lg_script.sh```
 or
 ```sudo sh lg_script.sh```
+
+#Step 1
+![alt text](https://github.com/tonnykirwa/living-goods-KE-Linux-Ubuntu-Script/blob/master/script.png "Running Script on Terminal")
+
 
 # How to install ADB & Fastboot on Ubuntu
 ADB or Android Debug Bridge, is a command line utility that let’s us control an android device from the computer itself. It’s part of Google Android SDK & can be used to run shell commands or to copy the files to & from the device & also to install or remove the applications from device.
