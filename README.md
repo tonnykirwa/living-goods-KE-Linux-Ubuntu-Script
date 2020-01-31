@@ -44,7 +44,8 @@ Installation
 To install both the ADB & Fastboot, execute the following command from the terminal
 
 
-# sudo apt-get install android-tools-adb android-tools-fastboot
+```sudo apt-get install android-tools-adb android-tools-fastboot```
+
 
 Once the installation has been finished you can check the ADB version by running the following command,
 
