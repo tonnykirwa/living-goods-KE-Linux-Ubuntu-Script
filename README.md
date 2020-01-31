@@ -7,7 +7,8 @@ Living Gooods Live App --------->lg_v3.apk\
 Living Gooods Training App ----->training_lg.apk\
 Go Launcher -------------------->go_launcher.apk\
 
-as shown below
+as shown below\
+
 ![alt text](https://github.com/tonnykirwa/living-goods-KE-Linux-Ubuntu-Script/blob/master/folder.png "Folder containing apps")
 
 lg_script.sh should be in the same folder as the apps above. While inside the said folder, open the terminal type the following;
