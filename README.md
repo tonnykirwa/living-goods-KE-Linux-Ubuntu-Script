@@ -28,7 +28,7 @@ or
 ![alt text](https://github.com/tonnykirwa/living-goods-KE-Linux-Ubuntu-Script/blob/master/script.png "Running Script on Terminal")
 
 
-# Step 2 - Apps being Installed
+# Step 2 - Apps being Installed Successfully
 
 
 ![alt text](https://github.com/tonnykirwa/living-goods-KE-Linux-Ubuntu-Script/blob/master/success_installed.png "Apps being Installed")
